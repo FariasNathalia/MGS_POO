@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Bem-vindo à API de Gerenciamento de Empregados, desenvolvida usando Express.js. Esta API permite gerenciar os dados dos empregados, incluindo detalhes pessoais, informações de contato, condições médicas e muito mais.
+Bem-vindo à API de Gerenciamento de Empregados, desenvolvida usando Express.js. Esta API permite gerenciar os dados dos empregados, incluindo detalhes pessoais, informações de contato, condições médicas, dentre outras.
 
 ## Funcionalidades
 
